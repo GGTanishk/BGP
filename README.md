@@ -1,0 +1,2 @@
+# BGP
+ Border Gateway Protocol (BGP) is a standardized exterior gateway protocol that exchanges routing information using the Autonomous system numbers. The protocol is also classified as a path vector protocol, i.e. it was designed to provide loop-free routing. Path vector protocols generally operate in the presence of Autonomous System numbers, and so is the case with BGP. AS numbers (or Autonomous System numbers) are the act as a foundation of formations of links in a path vector protocols.
